@@ -28,6 +28,41 @@
   color: #61dafb;
 }
 
+.css-1hbyad5-MuiTypography-root{
+    display: none;
+}
+
+.css-z3au5x-MuiButtonBase-root-MuiIconButton-root-MuiPickersToolbar-penIconButton{
+    display: none;
+}
+
+.css-epd502{
+    width: 100%;
+}
+
+.css-raiqh1-MuiTypography-root-MuiDayPicker-weekDayLabel{
+    width: 82px;
+    height: 82px;
+}
+
+.css-bkrceb-MuiButtonBase-root-MuiPickersDay-root{
+    width: 82px;
+    height: 82px;
+    font-weight: bold !important;
+}
+
+.css-hlj6pa-MuiDialogActions-root{
+    display: none !important;
+}
+
+.css-z3au5x-MuiButtonBase-root-MuiIconButton-root-MuiPickersToolbar-penIconButton{
+    display: none !important;
+}
+
+.css-jhsfre-MuiGrid-root-MuiPickersToolbar-content{
+    justify-content: center !important;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
